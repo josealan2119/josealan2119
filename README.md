@@ -1,138 +1,92 @@
 <div align="center">
 
-# Hola, soy Jose Alan Toriz Hernandez 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a5f,100:0ea5e9&height=200&section=header&text=Jose%20Alan%20Toriz&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20%7C%20Java%20%2B%20Spring%20Boot%20%7C%20Linux&descAlignY=60&descSize=16" width="100%"/>
 
-### Software Engineering Student · Backend Developer · UV Veracruz 🇲🇽
+</div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Estudiante+de+Ingeniería+en+Software;Backend+Developer+%7C+Java+%2B+Spring+Boot;REST+APIs+%7C+MySQL+%7C+TypeScript;Buscando+mi+primer+empleo+en+tech+🚀)](https://git.io/typing-svg)
+<br/>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Building+scalable+backend+systems+%F0%9F%94%A7;Java+%7C+Spring+Boot+%7C+REST+APIs;Linux+%7C+MySQL+%7C+PostgreSQL;Clean+code+%7C+Tested+code+%7C+Good+code)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 🧑‍💻 Sobre mí
+## About
 
-- 🎓 Estudiante de **Ingeniería en Software** en la **Universidad Veracruzana**
-- 🔭 Actualmente construyendo proyectos de **REST APIs con Node.js/Express + MySQL**
-- 🌱 Aprendiendo **Spring Boot · AWS · TypeScript**
-- 🧪 Formación en **Pruebas de Software** (unit testing, documentación, buenas prácticas)
-- 📍 Fortín, Veracruz, México
-- 💬 Pregúntame sobre **JavaScript, Java, REST APIs, MySQL**
-- 🎯 Meta: conseguir mi **primer empleo como desarrollador backend**
+Backend-focused software engineering student at **Universidad Veracruzana**, specializing in **Java + Spring Boot** for scalable REST APIs.
+
+My foundation in **Software Testing** means I build with quality in mind — not just working code, but well-documented, testable, maintainable code.
+
+Currently working toward my first backend engineering role in the Mexican tech market.
 
 ---
 
-## 🛠️ Tech Stack
-
-### Lenguajes
-[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com)
-[![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-
-### Frontend
-[![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://reactjs.org/)
-
-### Backend & Bases de datos
-[![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
-[![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)](https://expressjs.com/)
-[![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-
-### Herramientas
-[![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-[![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
-
----
-
-## 📌 Proyectos Destacados
-
-### 🔌 [REST API + MySQL](https://github.com/josealan2119/josealan2119-restapi-mysql)
-API RESTful construida con **Node.js + Express + MySQL**. CRUD completo con rutas organizadas, manejo de errores y conexión a base de datos relacional.
-
-`Node.js` `Express` `MySQL` `REST API`
-
----
-
-### 💻 [Frontend REST API MySQL](https://github.com/josealan2119/front-restapi-mysql)
-Interfaz de usuario que consume la REST API anterior. Proyecto full-stack: frontend + backend + base de datos.
-
-`JavaScript` `HTML` `CSS` `Fetch API`
-
----
-
-### 🖥️ [Admin CV](https://github.com/josealan2119/Admin-Cv)
-Aplicación de administración de currículums con **TypeScript**. Gestión de perfiles con CRUD.
-
-`TypeScript` `Frontend`
-
----
-
-### 🛒 [API Laptops MySQL](https://github.com/josealan2119/joseala2119-api-laptos-mysql)
-API para catálogo de laptops con operaciones completas de base de datos.
-
-`Node.js` `Express` `MySQL`
-
----
-
-### 🌐 [Portfolio](https://github.com/josealan2119/josealan2119.github.io)
-Sitio web personal / portafolio construido con **TypeScript**.
-
-`TypeScript` `GitHub Pages`
-
----
-
-## 📊 GitHub Stats
+## Stack
 
 <div align="center">
 
-![Jose Alan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=josealan2119&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+### Core
+![Java](https://img.shields.io/badge/Java-0f172a?style=for-the-badge&logo=openjdk&logoColor=0ea5e9)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-0f172a?style=for-the-badge&logo=springboot&logoColor=6DBB3A)
+![Spring Security](https://img.shields.io/badge/Spring_Security-0f172a?style=for-the-badge&logo=springsecurity&logoColor=6DBB3A)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=josealan2119&layout=compact&theme=tokyonight&hide_border=true)
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-0f172a?style=for-the-badge&logo=mysql&logoColor=00BCF2)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0f172a?style=for-the-badge&logo=postgresql&logoColor=336791)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=josealan2119&theme=tokyonight&hide_border=true)
+### Infrastructure
+![Linux](https://img.shields.io/badge/Linux-0f172a?style=for-the-badge&logo=linux&logoColor=FCC624)
+![Git](https://img.shields.io/badge/Git-0f172a?style=for-the-badge&logo=git&logoColor=F05033)
+![Docker](https://img.shields.io/badge/Docker-0f172a?style=for-the-badge&logo=docker&logoColor=2496ED)
+
+### Also worked with
+![Node.js](https://img.shields.io/badge/Node.js-0f172a?style=for-the-badge&logo=nodedotjs&logoColor=6DA55F)
+![Angular](https://img.shields.io/badge/Angular-0f172a?style=for-the-badge&logo=angular&logoColor=DD0031)
+![TypeScript](https://img.shields.io/badge/TypeScript-0f172a?style=for-the-badge&logo=typescript&logoColor=3178C6)
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## GitHub Stats
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=josealan2119&theme=tokyonight&no-frame=true&row=1&column=6)
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=josealan2119&show_icons=true&theme=github_dark_dimmed&hide_border=true&bg_color=0f172a&title_color=0ea5e9&icon_color=0ea5e9&text_color=94a3b8&ring_color=0ea5e9" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josealan2119&layout=compact&theme=github_dark_dimmed&hide_border=true&bg_color=0f172a&title_color=0ea5e9&text_color=94a3b8" />
+
+<img src="https://streak-stats.demolab.com?user=josealan2119&theme=dark&hide_border=true&background=0f172a&stroke=0ea5e9&ring=0ea5e9&fire=0ea5e9&currStreakLabel=0ea5e9&sideLabels=94a3b8&dates=94a3b8&currStreakNum=ffffff&sideNums=ffffff" />
 
 </div>
 
 ---
 
-## 📈 Actividad
+## Activity
 
 <div align="center">
 
-[![Jose Alan's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=josealan2119&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=josealan2119&bg_color=0f172a&color=0ea5e9&line=0ea5e9&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 ---
 
-## 📫 Contacto
+## Contact
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-josealan2119-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/josealan2119)
-[![Portfolio](https://img.shields.io/badge/Portfolio-josealan2119.github.io-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://josealan2119.github.io)
+[![GitHub](https://img.shields.io/badge/GitHub-josealan2119-0f172a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/josealan2119)
+[![Portfolio](https://img.shields.io/badge/Portfolio-josealan2119.github.io-0f172a?style=for-the-badge&logo=firefox&logoColor=0ea5e9)](https://josealan2119.github.io)
 
 </div>
 
----
+<br/>
 
 <div align="center">
 
-![Visitor Count](https://komarev.com/ghpvc/?username=josealan2119&color=3B82F6&style=for-the-badge)
-
-*"El código que no está probado es código que no funciona."*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:1e3a5f,100:0f172a&height=100&section=footer" width="100%"/>
 
 </div>
