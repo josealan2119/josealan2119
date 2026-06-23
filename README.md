@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Building+scalable+backend+systems+%F0%9F%94%A7;Java+%7C+Spring+Boot+%7C+REST+APIs;Linux+%7C+MySQL+%7C+PostgreSQL;Clean+code+%7C+Tested+code+%7C+Good+code)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=620&lines=Building+scalable+backend+systems+%F0%9F%94%A7;Java+%7C+Spring+Boot+%7C+REST+APIs;MySQL+%7C+PostgreSQL+%7C+Linux;Learning+Flutter+%26+Angular+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
@@ -18,9 +18,7 @@
 
 Backend-focused software engineering student at **Universidad Veracruzana**, specializing in **Java + Spring Boot** for scalable REST APIs.
 
-My foundation in **Software Testing** means I build with quality in mind — not just working code, but well-documented, testable, maintainable code.
-
-Currently working toward my first backend engineering role in the Mexican tech market.
+My foundation in **Software Testing** means I build with quality in mind — not just working code, but well-documented, testable, maintainable code. Currently expanding into **Flutter** and **Angular** on the frontend side.
 
 ---
 
@@ -28,26 +26,72 @@ Currently working toward my first backend engineering role in the Mexican tech m
 
 <div align="center">
 
-### Core
-![Java](https://img.shields.io/badge/Java-0f172a?style=for-the-badge&logo=openjdk&logoColor=0ea5e9)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-0f172a?style=for-the-badge&logo=springboot&logoColor=6DBB3A)
-![Spring Security](https://img.shields.io/badge/Spring_Security-0f172a?style=for-the-badge&logo=springsecurity&logoColor=6DBB3A)
+### Backend · My focus
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-%236DB33F.svg?style=for-the-badge&logo=springsecurity&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-0f172a?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ### Databases
-![MySQL](https://img.shields.io/badge/MySQL-0f172a?style=for-the-badge&logo=mysql&logoColor=00BCF2)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0f172a?style=for-the-badge&logo=postgresql&logoColor=336791)
+![MySQL](https://img.shields.io/badge/MySQL-%2300BCF2.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Infrastructure
-![Linux](https://img.shields.io/badge/Linux-0f172a?style=for-the-badge&logo=linux&logoColor=FCC624)
-![Git](https://img.shields.io/badge/Git-0f172a?style=for-the-badge&logo=git&logoColor=F05033)
-![Docker](https://img.shields.io/badge/Docker-0f172a?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-### Also worked with
-![Node.js](https://img.shields.io/badge/Node.js-0f172a?style=for-the-badge&logo=nodedotjs&logoColor=6DA55F)
-![Angular](https://img.shields.io/badge/Angular-0f172a?style=for-the-badge&logo=angular&logoColor=DD0031)
-![TypeScript](https://img.shields.io/badge/TypeScript-0f172a?style=for-the-badge&logo=typescript&logoColor=3178C6)
+### Also used in projects
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+### Currently learning
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 
 </div>
+
+---
+
+## Featured Projects
+
+### 🔌 [REST API + MySQL](https://github.com/josealan2119/josealan2119-restapi-mysql)
+RESTful API built with **Node.js + Express + MySQL**. Full CRUD with organized routes, error handling and relational database connection.
+
+`Node.js` `Express` `MySQL` `REST API`
+
+---
+
+### 💻 [Frontend REST API MySQL](https://github.com/josealan2119/front-restapi-mysql)
+Full-stack project: frontend consuming the REST API above — end to end from database to UI.
+
+`JavaScript` `HTML` `CSS` `Fetch API`
+
+---
+
+### 🖥️ [Admin CV — TypeScript](https://github.com/josealan2119/Admin-Cv)
+CV management app with full CRUD built in TypeScript.
+
+`TypeScript`
+
+---
+
+### 🛒 [Laptops API](https://github.com/josealan2119/josealan2119-api-laptos-mysql)
+Product catalog API for laptops with complete database operations.
+
+`Node.js` `Express` `MySQL`
+
+---
+
+### 🌐 [Portfolio](https://josealan2119.github.io)
+Personal portfolio site built with TypeScript, hosted on GitHub Pages.
+
+`TypeScript` `GitHub Pages`
 
 ---
 
@@ -55,10 +99,21 @@ Currently working toward my first backend engineering role in the Mexican tech m
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=josealan2119&show_icons=true&theme=github_dark_dimmed&hide_border=true&bg_color=0f172a&title_color=0ea5e9&icon_color=0ea5e9&text_color=94a3b8&ring_color=0ea5e9" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josealan2119&layout=compact&theme=github_dark_dimmed&hide_border=true&bg_color=0f172a&title_color=0ea5e9&text_color=94a3b8" />
+![Jose Alan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=josealan2119&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-<img src="https://streak-stats.demolab.com?user=josealan2119&theme=dark&hide_border=true&background=0f172a&stroke=0ea5e9&ring=0ea5e9&fire=0ea5e9&currStreakLabel=0ea5e9&sideLabels=94a3b8&dates=94a3b8&currStreakNum=ffffff&sideNums=ffffff" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=josealan2119&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=josealan2119&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## Trophies
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=josealan2119&theme=tokyonight&no-frame=true&row=1&column=6)
 
 </div>
 
@@ -68,7 +123,7 @@ Currently working toward my first backend engineering role in the Mexican tech m
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=josealan2119&bg_color=0f172a&color=0ea5e9&line=0ea5e9&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=josealan2119&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -78,8 +133,8 @@ Currently working toward my first backend engineering role in the Mexican tech m
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-josealan2119-0f172a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/josealan2119)
-[![Portfolio](https://img.shields.io/badge/Portfolio-josealan2119.github.io-0f172a?style=for-the-badge&logo=firefox&logoColor=0ea5e9)](https://josealan2119.github.io)
+[![GitHub](https://img.shields.io/badge/GitHub-josealan2119-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/josealan2119)
+[![Portfolio](https://img.shields.io/badge/Portfolio-josealan2119.github.io-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://josealan2119.github.io)
 
 </div>
 
@@ -87,6 +142,12 @@ Currently working toward my first backend engineering role in the Mexican tech m
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:1e3a5f,100:0f172a&height=100&section=footer" width="100%"/>
+![Visitor Count](https://komarev.com/ghpvc/?username=josealan2119&color=0ea5e9&style=for-the-badge)
 
+*"El código que no está probado es código que no funciona."*
+
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:1e3a5f,100:0f172a&height=100&section=footer" width="100%"/>
 </div>
