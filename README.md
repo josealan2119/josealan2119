@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hola, soy Jose Alan Toriz Hernandez 👋
+# Hola, soy Jose Alan Toriz Hernandez 
 
 ### Software Engineering Student · Backend Developer · UV Veracruz 🇲🇽
 
